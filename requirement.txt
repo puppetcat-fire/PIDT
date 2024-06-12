@@ -1,0 +1,5 @@
+jpype
+matplotlib
+pathlib
+tqdm
+numpy
